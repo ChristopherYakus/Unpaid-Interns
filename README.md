@@ -31,4 +31,4 @@ Once the JAR file is built, you can run it using
 - `themes` folder in `frontend/` contains the custom CSS styles.
 
 ## Additional Branches 
-* Describe Additional Branch
+We currently have two branches, main and preliminary. Preliminary is the one with the bulk of the work put into it and is the default branch. The main branch is behind and holds only the very basic framework and is quite a bit behind.
